@@ -19,7 +19,7 @@
 </p>
  
 <p align="center">
-    <a href="https://www.youtube.com/watch?v=0bU4KoYztJo&feature=youtu.be" target="_brank">View Demo</a>
+    <a href="https://www.youtube.com/watch?v=0bU4KoYztJo&feature=youtu.be" target="_blank">View Demo</a>
     ·
     <a href="https://github.com/TaeKyeong97/backup-ops/issues/new">Report Bug</a>
     ·
