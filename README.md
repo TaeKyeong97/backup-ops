@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TaeKyeong97/ops/actions/new">
+  <a href="https://github.com/TaeKyeong97/backup-ops/actions/new">
     <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
   </a>
-  <a href="https://github.com/TaeKyeong97/ops/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/TaeKyeong97/ops?color=0088ff" />
+  <a href="https://github.com/TaeKyeong97/backup-ops/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/TaeKyeong97/backup-ops?color=0088ff" />
   </a>
-  <a href="https://github.com/TaeKyeong97/ops/pulls">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/TaeKyeong97/ops?color=0088ff" />
+  <a href="https://github.com/TaeKyeong97/backup-ops/pulls">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/TaeKyeong97/backup-ops?color=0088ff" />
   </a>
   <br />
   <br />
