@@ -85,6 +85,6 @@
 #### [이력서 VIEW]
 ![이력서 VIEW](https://raw.githubusercontent.com/TaeKyeong97/backup-ops/main/status/img/ops-resume-view.png)
 
-#### [OPS 데이터 수집] `이후 데이터를 활용한 추천 서비스 제공`
+#### [OPS 데이터 수집] `이후 데이터를 활용 추천 서비스 제공`
 ![이력서 지원하기](https://raw.githubusercontent.com/TaeKyeong97/backup-ops/main/status/img/ops-datacenter.png)
 
