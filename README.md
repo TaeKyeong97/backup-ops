@@ -21,9 +21,9 @@
 <p align="center">
     <a href="#demo">View Demo</a>
     ·
-    <a href="https://github.com/TaeKyeong97/ops/issues/new">Report Bug</a>
+    <a href="https://github.com/TaeKyeong97/backup-ops/issues/new">Report Bug</a>
     ·
-    <a href="https://github.com/TaeKyeong97/ops/issues/new">Request Feature</a>
+    <a href="https://github.com/TaeKyeong97/backup-ops/issues/new">Request Feature</a>
 </p>
  <p align="center">
     <a href="./README.md">한국어</a>
@@ -56,35 +56,35 @@
 
 
 # 데모이미지
-<img width="300px" src="https://raw.githubusercontent.com/TaeKyeong97/ops/master/status/img/ops.jpg" align="center" alt="ops표지 이미지" />
+<img width="300px" src="https://raw.githubusercontent.com/TaeKyeong97/backup-ops/master/status/img/ops.jpg" align="center" alt="ops표지 이미지" />
 
 #### [메인 페이지]
-![메인이미지](https://raw.githubusercontent.com/TaeKyeong97/ops/master/status/img/ops-main.png)
+![메인이미지](https://raw.githubusercontent.com/TaeKyeong97/backup-ops/master/status/img/ops-main.png)
 
 #### [검색 결과 페이지]
-![검색결과페이지](https://raw.githubusercontent.com/TaeKyeong97/ops/master/status/img/ops-search.png)
+![검색결과페이지](https://raw.githubusercontent.com/TaeKyeong97/backup-ops/master/status/img/ops-search.png)
 
 #### [이력서 작성 페이지]
-![이력서 작성 페이지](https://raw.githubusercontent.com/TaeKyeong97/ops/master/status/img/ops-resume.png)
+![이력서 작성 페이지](https://raw.githubusercontent.com/TaeKyeong97/backup-ops/master/status/img/ops-resume.png)
 
 #### [포트폴리오 레이아웃 선택]
-![포트폴리오 레이아웃 선택](https://raw.githubusercontent.com/TaeKyeong97/ops/master/status/img/ops-editor.png)
+![포트폴리오 레이아웃 선택](https://raw.githubusercontent.com/TaeKyeong97/backup-ops/master/status/img/ops-editor.png)
 
 #### [포트폴리오 카드형 화면]
-![포트폴리오 카드형 화면](https://raw.githubusercontent.com/TaeKyeong97/ops/master/status/img/ops-editor-card.png)
+![포트폴리오 카드형 화면](https://raw.githubusercontent.com/TaeKyeong97/backup-ops/master/status/img/ops-editor-card.png)
 
 #### [포트폴리오 이력서 연결]
-![포트폴리오 이력서 연결](https://raw.githubusercontent.com/TaeKyeong97/ops/master/status/img/ops-portfolio-add.png)
+![포트폴리오 이력서 연결](https://raw.githubusercontent.com/TaeKyeong97/backup-ops/master/status/img/ops-portfolio-add.png)
 
 #### [개인정보 수정 페이지]
-![개인정보 수정 페이지](https://raw.githubusercontent.com/TaeKyeong97/ops/master/status/img/ops-user.png)
+![개인정보 수정 페이지](https://raw.githubusercontent.com/TaeKyeong97/backup-ops/master/status/img/ops-user.png)
 
 #### [이력서 지원하기]
-![이력서 지원하기](https://raw.githubusercontent.com/TaeKyeong97/ops/master/status/img/ops-resume-app.png)
+![이력서 지원하기](https://raw.githubusercontent.com/TaeKyeong97/backup-ops/master/status/img/ops-resume-app.png)
 
 #### [이력서 VIEW]
-![이력서 VIEW](https://raw.githubusercontent.com/TaeKyeong97/ops/master/status/img/ops-resume-view.png)
+![이력서 VIEW](https://raw.githubusercontent.com/TaeKyeong97/backup-ops/master/status/img/ops-resume-view.png)
 
 #### [OPS 데이터 수집] `이후 데이터를 활용한 추천 서비스 제공`
-![이력서 지원하기](https://raw.githubusercontent.com/TaeKyeong97/ops/master/status/img/ops-datacenter.png)
+![이력서 지원하기](https://raw.githubusercontent.com/TaeKyeong97/backup-ops/master/status/img/ops-datacenter.png)
 
