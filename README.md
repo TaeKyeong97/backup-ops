@@ -91,5 +91,5 @@
 #### [package 미리보기]
 ![package](https://raw.githubusercontent.com/TaeKyeong97/backup-ops/main/status/img/package.png)
 
-[![영상 미리보기](https://img.youtube.com/vi/0bU4KoYztJo/0.jpg)](https://youtu.be/0bU4KoYztJo")
+[![영상 미리보기](https://img.youtube.com/vi/0bU4KoYztJo/0.jpg)](https://youtu.be/0bU4KoYztJo)
 
